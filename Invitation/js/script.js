@@ -49,7 +49,7 @@ var x = setInterval(function() {
     // If the count down is over, write some text 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("time").innerHTML = "Bless the married couple for happy life!";
+        document.getElementById("time").innerHTML = "Bless the married couple for a lifetime of love, joy, and togetherness! May their journey be filled with laughter, endless support, and beautiful memories. Wishing them a bond that grows stronger with each passing day! 💖✨";
     }
 }, 1000);
 
