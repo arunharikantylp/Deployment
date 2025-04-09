@@ -61,7 +61,7 @@ var x = setInterval(function () {
   // If the count down is over, write some text
   if (distance > 0) {
     document.getElementById("time").innerHTML +=
-      "Bless the marriage couple for a lifetime of love, joy, and togetherness! May their journey be filled with laughter, endless support, and beautiful memories. Wishing them a bond that grows stronger with each passing day! 💖✨";
+      "With immense joy and love, we invite you to be part of our wedding celebration. Please grace the occasion with your presence as we unite in marriage. Your blessings and warm wishes will make our day truly unforgettable. Join us in beginning this new journey together with love and gratitude! 💖✨";
   }
 }, 1000);
 
